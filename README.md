@@ -10,8 +10,11 @@ This is application uses Ruby/Rails to create a Friends List that allows user to
 To run this app, you will need…
 
 -Ruby 2.6 or higher
+
 -SQLite3
+
 -Node.js
+
 -Yarn
 
 a full list of dependancies is listed in the 'package.json'
